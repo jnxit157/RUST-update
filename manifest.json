@@ -1,29 +1,29 @@
 {
   "online": true,
-  "message": "Servidor vanilla VPS ativo",
-  "version": "v4",
-  "published_at": "2026-06-11T18:27:09.512108+00:00",
+  "message": "Logo oficial aplicada",
+  "version": "v5",
+  "published_at": "2026-06-11T18:37:40.544735+00:00",
   "files": [
     {
       "name": "RustLauncher.exe",
       "target": "RustLauncher.exe",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v4/RustLauncher.exe",
-      "sha256": "1212b5f605c5ab74767c9690b158167f35675c86a58a0b5e962797b41bc2d26e",
-      "size": 1294848
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v5/RustLauncher.exe",
+      "sha256": "91ccbda0612bc45fd9466295f81418086761a923c0a4f9ef7a8105a8d334049c",
+      "size": 1353216
     },
     {
       "name": "Assembley.dll",
       "target": "Assembley.dll",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v4/Assembley.dll",
-      "sha256": "cd157ebf6ea38b0369fa11c8d36eef79b6277350d1157bc1d1a5266e4db2cd33",
-      "size": 2728960
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v5/Assembley.dll",
+      "sha256": "b1f7809791726b885dcd4eb5be6c2326d786d9ee62eb1db6a568e3302ba024a0",
+      "size": 2922496
     },
     {
       "name": "RustUpdater.exe",
       "target": "RustUpdater.exe",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v4/RustUpdater.exe",
-      "sha256": "fbe5cb37c6bc750fbaab377dc6d6597d1703e337ee5dbd2b10583ffed00d626c",
-      "size": 137728
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v5/RustUpdater.exe",
+      "sha256": "c1a6252a2cdc8628035c3abb6ae05a51afc6d8c867cac4ebf042d41c8bd0aa76",
+      "size": 196096
     }
   ]
 }
