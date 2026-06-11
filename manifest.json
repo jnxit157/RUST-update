@@ -1,7 +1,7 @@
 {
-  "online": false,
-  "message": "Servidor em manutencao",
+  "online": true,
+  "message": "Servidor online",
   "version": "maintenance",
-  "published_at": "2026-06-11T16:04:13.566703+00:00",
+  "published_at": "2026-06-11T16:10:42.137676+00:00",
   "files": []
 }
