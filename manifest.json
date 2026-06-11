@@ -1,7 +1,29 @@
 {
   "online": true,
-  "message": "Servidor online",
-  "version": "maintenance",
-  "published_at": "2026-06-11T16:10:42.137676+00:00",
-  "files": []
+  "message": "Servidor vanilla VPS ativo",
+  "version": "v4",
+  "published_at": "2026-06-11T18:27:09.512108+00:00",
+  "files": [
+    {
+      "name": "RustLauncher.exe",
+      "target": "RustLauncher.exe",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v4/RustLauncher.exe",
+      "sha256": "1212b5f605c5ab74767c9690b158167f35675c86a58a0b5e962797b41bc2d26e",
+      "size": 1294848
+    },
+    {
+      "name": "Assembley.dll",
+      "target": "Assembley.dll",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v4/Assembley.dll",
+      "sha256": "cd157ebf6ea38b0369fa11c8d36eef79b6277350d1157bc1d1a5266e4db2cd33",
+      "size": 2728960
+    },
+    {
+      "name": "RustUpdater.exe",
+      "target": "RustUpdater.exe",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v4/RustUpdater.exe",
+      "sha256": "fbe5cb37c6bc750fbaab377dc6d6597d1703e337ee5dbd2b10583ffed00d626c",
+      "size": 137728
+    }
+  ]
 }
