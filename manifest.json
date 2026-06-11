@@ -2,7 +2,7 @@
   "online": true,
   "message": "Corrigido inventario dentro do servidor",
   "version": "v5",
-  "published_at": "2026-06-11T19:35:20.051663+00:00",
+  "published_at": "2026-06-11T19:44:36.558805+00:00",
   "files": [
     {
       "name": "RustLauncher.exe",
@@ -15,7 +15,7 @@
       "name": "Assembley.dll",
       "target": "Assembley.dll",
       "url": "https://github.com/jnxit157/RUST-update/releases/download/v5/Assembley.dll",
-      "sha256": "d031540202cae11d974d7d2d5bddd9b71c6f9578248deaa3d93c7d1758656c87",
+      "sha256": "bdb30b3ee33dc296348d85ea750810534bc23fe40c2e43ff8ded35ad786c878e",
       "size": 2922496
     },
     {
