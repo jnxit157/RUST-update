@@ -1,14 +1,14 @@
 {
   "online": true,
-  "message": "Correcao do sistema de manutencao",
+  "message": "Correcao versao v3",
   "version": "v3",
-  "published_at": "2026-06-11T15:16:28.084563+00:00",
+  "published_at": "2026-06-11T15:18:59.485325+00:00",
   "files": [
     {
       "name": "RustLauncher.exe",
       "target": "RustLauncher.exe",
       "url": "https://github.com/jnxit157/RUST-update/releases/download/v3/RustLauncher.exe",
-      "sha256": "9ad53bee77ffff0580ec863c7880b9911ad85674a01b9e4c8226bb6e5114f382",
+      "sha256": "d5e85e706a96949e10b6f0e7d3237d2b8df0b92c63de9d7427824e60e3892d27",
       "size": 1286656
     },
     {
