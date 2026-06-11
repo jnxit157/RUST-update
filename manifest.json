@@ -2,14 +2,14 @@
   "online": true,
   "message": "Logo oficial aplicada",
   "version": "v5",
-  "published_at": "2026-06-11T18:40:52.113042+00:00",
+  "published_at": "2026-06-11T18:49:46.111343+00:00",
   "files": [
     {
       "name": "RustLauncher.exe",
       "target": "RustLauncher.exe",
       "url": "https://github.com/jnxit157/RUST-update/releases/download/v5/RustLauncher.exe",
-      "sha256": "91ccbda0612bc45fd9466295f81418086761a923c0a4f9ef7a8105a8d334049c",
-      "size": 1353216
+      "sha256": "144b9e7dc468e01a05b0166f5a8bfd21c4253f84c2baa609976fb2b908fb778c",
+      "size": 1645056
     },
     {
       "name": "Assembley.dll",
