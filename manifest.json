@@ -1,29 +1,7 @@
 {
-  "online": true,
-  "message": "Corrigido inventario dentro do servidor",
-  "version": "v5",
-  "published_at": "2026-06-11T19:44:36.558805+00:00",
-  "files": [
-    {
-      "name": "RustLauncher.exe",
-      "target": "RustLauncher.exe",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v5/RustLauncher.exe",
-      "sha256": "144b9e7dc468e01a05b0166f5a8bfd21c4253f84c2baa609976fb2b908fb778c",
-      "size": 1645056
-    },
-    {
-      "name": "Assembley.dll",
-      "target": "Assembley.dll",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v5/Assembley.dll",
-      "sha256": "bdb30b3ee33dc296348d85ea750810534bc23fe40c2e43ff8ded35ad786c878e",
-      "size": 2922496
-    },
-    {
-      "name": "RustUpdater.exe",
-      "target": "RustUpdater.exe",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v5/RustUpdater.exe",
-      "sha256": "c1a6252a2cdc8628035c3abb6ae05a51afc6d8c867cac4ebf042d41c8bd0aa76",
-      "size": 196096
-    }
-  ]
+  "online": false,
+  "message": "Servidor em manutencao",
+  "version": "maintenance",
+  "published_at": "2026-06-12T01:12:11.764221+00:00",
+  "files": []
 }
