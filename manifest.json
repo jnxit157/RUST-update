@@ -1,7 +1,29 @@
 {
   "online": true,
-  "message": "Servidor online",
-  "version": "maintenance",
-  "published_at": "2026-06-12T01:12:35.939772+00:00",
-  "files": []
+  "message": "Atualizacao v6",
+  "version": "v6",
+  "published_at": "2026-06-12T01:19:39.132241+00:00",
+  "files": [
+    {
+      "name": "RustLauncher.exe",
+      "target": "RustLauncher.exe",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v6/RustLauncher.exe",
+      "sha256": "84a6b946ff20bec82f80eb51f654a82e2741166521e80c77a22ff9d9e54b291a",
+      "size": 1645056
+    },
+    {
+      "name": "Assembley.dll",
+      "target": "Assembley.dll",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v6/Assembley.dll",
+      "sha256": "126fdcb63204f3ebbd66050efed0723ab13397eb1cb26103f548e8fb94aae180",
+      "size": 3057152
+    },
+    {
+      "name": "RustUpdater.exe",
+      "target": "RustUpdater.exe",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v6/RustUpdater.exe",
+      "sha256": "c1a6252a2cdc8628035c3abb6ae05a51afc6d8c867cac4ebf042d41c8bd0aa76",
+      "size": 196096
+    }
+  ]
 }
