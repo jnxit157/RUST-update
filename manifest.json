@@ -1,7 +1,22 @@
 {
   "online": true,
-  "message": "Servidor online",
-  "version": "maintenance",
-  "published_at": "2026-06-12T06:29:55.134609+00:00",
-  "files": []
+  "message": "atualizaçao disponivel",
+  "version": "v7",
+  "published_at": "2026-06-12T19:41:06.520545+00:00",
+  "files": [
+    {
+      "name": "RustLauncher.exe",
+      "target": "RustLauncher.exe",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v7/RustLauncher.exe",
+      "sha256": "58738e1bd636afc11453a37dcd47d48eb739b721fdc811a7ec640100448d8c3f",
+      "size": 5150720
+    },
+    {
+      "name": "RustUpdater.exe",
+      "target": "RustUpdater.exe",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v7/RustUpdater.exe",
+      "sha256": "daf6815fa78ce58a2df6fc9f3ac27aeb60417a008112470878e2458da5158741",
+      "size": 197120
+    }
+  ]
 }
