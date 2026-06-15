@@ -1,20 +1,20 @@
 {
   "online": true,
-  "message": "novo update",
-  "version": "v9",
-  "published_at": "2026-06-14T22:43:52.079155+00:00",
+  "message": "atualizaçao correçao",
+  "version": "v10",
+  "published_at": "2026-06-15T04:16:53.897019+00:00",
   "files": [
     {
       "name": "RustLauncher.exe",
       "target": "RustLauncher.exe",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v9/RustLauncher.exe",
-      "sha256": "46cf90300b96c0fdcd0ae8d8918e1630befaf5f670cef2daa1bd4fbe7964b873",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v10/RustLauncher.exe",
+      "sha256": "329f2099d843269c977983ec60cecf2e848f46a5e1fc4bd58cb47e9627d6cd9d",
       "size": 5154816
     },
     {
       "name": "RustUpdater.exe",
       "target": "RustUpdater.exe",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v9/RustUpdater.exe",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v10/RustUpdater.exe",
       "sha256": "daf6815fa78ce58a2df6fc9f3ac27aeb60417a008112470878e2458da5158741",
       "size": 197120
     }
