@@ -1,20 +1,20 @@
 {
   "online": true,
-  "message": "atualizaçao disponivel protecao anti ddos",
-  "version": "v13",
-  "published_at": "2026-06-20T00:12:07.169813+00:00",
+  "message": "nova atualizaçao agora temos 2 servidores online",
+  "version": "v14",
+  "published_at": "2026-06-20T01:20:10.295134+00:00",
   "files": [
     {
       "name": "RustLauncher.exe",
       "target": "RustLauncher.exe",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v13/RustLauncher.exe",
-      "sha256": "4452a5b17df5b544b8180a19b973d6f3f3c364c9f2c8e77e5af816305e95f34f",
-      "size": 5184512
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v14/RustLauncher.exe",
+      "sha256": "1b3938b92fe36279a54be2337fac09f5f4a8d7ccb4c7751bd41b4d990b6a6903",
+      "size": 5186048
     },
     {
       "name": "RustUpdater.exe",
       "target": "RustUpdater.exe",
-      "url": "https://github.com/jnxit157/RUST-update/releases/download/v13/RustUpdater.exe",
+      "url": "https://github.com/jnxit157/RUST-update/releases/download/v14/RustUpdater.exe",
       "sha256": "daf6815fa78ce58a2df6fc9f3ac27aeb60417a008112470878e2458da5158741",
       "size": 197120
     }
